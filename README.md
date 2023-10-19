@@ -7,7 +7,7 @@ All the components are docker based.
 
 Used Mongodb from DockerHub for pulling Mongodb image.
 
-There are various services used in this application such as mongodb, mongo-express.
+There are various services used in this application such as mongodb, and mongo-express.
 
 Docker Compose is been created for using different docker services and binding ports.
 
